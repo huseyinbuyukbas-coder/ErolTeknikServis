@@ -1,0 +1,6 @@
+{
+  "name": "Erol Teknik",
+  "description": "Erol Teknik Beyaz Eşya ve Kombi Servisi - Esenyurt ve İstanbul Avrupa Yakası profesyonel, hızlı ve güvenilir teknik servis hizmeti.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
